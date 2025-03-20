@@ -26,6 +26,8 @@ layout: home
 -   Опыт работы: 1 год, НКО "Монета"
 -   Языки программирования: C++, C#, Haskell, Prolog, Python, JavaScript, Paskal, HTML, CSS, Rect...
 
+## Softskills
+
 ## О себе
 
 -
